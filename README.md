@@ -12,8 +12,9 @@ Build a Sales Analysis, Product Analysis and Shipping Analysis Dashboard.
 Microsoft Power BI
 
 # Data:
-Data Source : Superstore dataset from kaggle https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset
-The sales is between the period of 2011 to 2014 image
+Data Source : Global Superstore dataset (https://docs.google.com/spreadsheets/d/1Ez8RhO1rE2QikfdddOZ19eEZhN4r6eW7WHb9qB05T7E/edit?usp=sharing)
+
+The sales is between the period of 2011 to 2014
 
 # Dashboards:
 ### Sales Analysis Dashboard:
