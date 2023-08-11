@@ -34,6 +34,7 @@ Power BI dashboards can be a helpfull tool to provide insights into sales perfor
 The dashboard should include key metrics such as total sales, sales by product, sales by location, sales by customer segment, and sales by product category.
 It should also provide comparisons of performance to prior years, and allow for drill-down into individual market and products.
 
+![TOTAL 1](https://github.com/abyjohn1708/Gobal-superstores-Power-BI-Module-End-Project/assets/133591355/a6e0dd53-7be3-4936-b334-c3a3a72a89d4)
 
 # Problem Statement:
 Build a Sales Analysis, Product Analysis and Shipping Analysis Dashboard.
@@ -55,6 +56,7 @@ The company has made a Total Sales of 12.64 million and Total Profit of 1.47 mil
 59.95% of profit came from product category technology.
 Year 2014 March and April has seen high sales revenue and December being the holiday Season has the lowest revenue sales.
 
+![TOTAL 2](https://github.com/abyjohn1708/Gobal-superstores-Power-BI-Module-End-Project/assets/133591355/2bc3077c-f456-472a-9e35-a51b3092dc11)
 ### Filter for year 2014
 category: technology
 Order Priority: Medium !
