@@ -16,8 +16,8 @@ Data Source : Global Superstore dataset (https://docs.google.com/spreadsheets/d/
 
 The sales is between the period of 2011 to 2014
 
-# Dashboards:
-### Sales Analysis Dashboard:
+# Analysis:
+### Sales Analysis:
 Sales department can analyze sales and profit through this dashboard. Filter through years and quarterly sales.
 The company has made a Total Sales of 12.64 million and Total Profit of 1.47 million between 2011- 2014.
 4.3 million worth of sales and 504.17K profit was made in 2014.
@@ -29,7 +29,7 @@ category: technology
 Order Priority: Medium !
 
 
-# Shipping Analysis Dashboard:
+### Shipping Analysis:
 59.95% of the orders have Standard shipping mode and lowest preferred is same day shipping.
 14.48% of Orders with critical order priority have been ordered by firstclass ship mode.
 
