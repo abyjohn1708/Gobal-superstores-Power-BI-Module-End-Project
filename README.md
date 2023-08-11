@@ -1,5 +1,7 @@
 # Gobal-superstores-Power-BI-Module-End-Project
 
+### Check out the my presentation and Sales Analysis Dashboard of the Global Superstore here:
+Link to watch: 
 # Introduction
 A global superstore has given us the task to identify what works best for them in terms of sales and making profit. Using exploratory data analysis (EDA) we will help them identify:
 
