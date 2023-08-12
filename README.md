@@ -2,6 +2,9 @@
 
 ### Check out the my presentation and Sales Analysis Dashboard of the Global Superstore here:
 Link to watch: https://drive.google.com/file/d/1APvVpnWzc23M4NBCOhOxsZFAb0_OTqD6/view?usp=drive_link
+
+
+
 # Introduction
 A global superstore has given us the task to identify what works best for them in terms of sales and making profit. Using exploratory data analysis (EDA) we will help them identify:
 
@@ -56,6 +59,8 @@ Data Source : Global Superstore dataset (https://docs.google.com/spreadsheets/d/
 
 The sales is between the period of 2011 to 2014
 
+# Data Cleaning
+Before diving into the analysis, basic data cleaning steps were performed to ensure the accuracy and consistency of the data. This involved handling missing values, removing duplicates, and formatting the data appropriately for analysis. 
 
 # Insights:
 ### Sales Analysis:
